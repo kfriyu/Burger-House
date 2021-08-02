@@ -1,0 +1,107 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+.sec1{
+    display: flex;
+    background-image: url(Photos/Frame58.jpg);
+    width: 100%;
+    background-repeat: no-repeat;
+    height: 500px;
+    background-size: cover;
+
+}
+.sec1div1{
+    text-align: center;
+    padding-left:60px;
+    width: 80%;
+    padding-top: 40px;
+    
+}
+.sec1div2 img{
+    width: 50%;
+    padding-left: 200px;
+}
+.sec1div1 h1{
+ font-weight: bold
+}
+.button{
+    background-image: linear-gradient(orange, tomato);
+    padding: 15px;
+    text-decoration: none;
+    color: antiquewhite;
+    border-radius: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 40px;
+}
+.sec2{
+    background-image: url(Photos/sec2image.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    margin-top: 80px;
+    height: 500px;
+
+}
+.sec2div1{
+    width: 30%;
+    padding: 20px;
+    text-align: center;
+    padding-bottom: 100px;
+    padding-left: 200px;
+    padding-top: 80px;
+    
+}
+
+.sec3div1{
+    text-align: center;
+    margin: 100px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+.box img{
+    width: 20%;
+}
+.sec3div2{
+    display: flex;
+    padding-left: 20px;
+    padding-right: 20px;
+   
+}
+.sec3div2 h2{
+    color: tomato;
+    text-align: justify;
+}
+.box{
+    box-shadow: 10px 10px 40px gray;
+    margin: 20px;
+    width: 30%;
+    padding: 20px;
+    border-radius: 20px;
+}
+.sec4{
+    display: flex;
+    padding: 50px;
+    text-align: center;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    width: 60%;
+    margin-left: 200px;
+    margin-top: 100px
+    
+
+}
+.box2{
+    margin-left: 30px;
+    margin-right: 60px;
+}
+
+
+.sec5{
+    text-align: center;
+    padding-top: 80px;
+    margin-bottom: 90px;
+}
+
+    
